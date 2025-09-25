@@ -21,9 +21,6 @@ It allows managing student details, login validation, and profile handling throu
 - `styles.css` → CSS for layout and design
 - `script.js` → JavaScript for login validation and interactivity
 
-## 📸 Screenshots (optional)
-*(Add screenshots of your web pages if possible)*
-
 ## 📌 Project Purpose
 This project was developed as part of my **BCA academic coursework** to demonstrate web development, front-end design, and problem-solving skills.
 
